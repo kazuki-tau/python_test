@@ -1,0 +1,8 @@
+192.168.0.4,null,A1276162,bash -l -c 'ip a',test
+192.168.0.4,null,A1276162,ls -l,root
+192.168.0.4,null,A1276162,netstat -rn,default
+192.168.0.4,null,A1276162,tttttt,dfadsf
+192.168.0.4,null,A1276162,bash -l -c 'docker ps -a',0f3e07c0138f
+192.168.0.4,null,A1276162,echo $SHELL,bash
+192.168.0.100,null,A1276162,echo $SHELL,bash
+,,,echo '&&&&&&&&&&&&&&&bas!aiueo!!!!!!!',aiueo

@@ -1,0 +1,15 @@
+
+
+
+
+
+最新記事
+ISUCON10予選敗退してきました
+PyPIのTOP 4000 パッケージのsdistをダウンロードする
+PEP 8騒動について
+Python 3.10 の開発（お掃除）に参加しよう
+PEP 623: Remove wstr from Unicode について
+バグがあっても接触確認アプリをインストールしてほしい理由
+
+
+fdfds
