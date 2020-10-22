@@ -67,7 +67,7 @@ for i in op:
         print(f'IPアドレス:{address}')
         print(f'ログインユーザー:{user}')
         print(f'実行時刻:{time}')
-        print(f"結果:{'OK' if match == True else 'NG'} ({word})")
+        print(f"結果:{'OK' if match == True else 'NG'} (検索ワード:{word})")
         print('================================')
         print('実行結果↓')
         print('\n')
